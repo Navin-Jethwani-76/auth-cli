@@ -1,0 +1,37 @@
+{
+  "name": "auth-cli",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "create-auth": "./index.js"
+  },
+  "keywords": [
+    "next.js",
+    "nextjs",
+    "nodejs",
+    "node",
+    "javascript",
+    "typescript",
+    "cli-tool",
+    "npm",
+    "cli",
+    "command-line",
+    "command-line-interface",
+    "command-line-tool",
+    "command-line-utility",
+    "command-line-application",
+    "auth",
+    "authentication"
+  ],
+  "author": "Navin Jethwani",
+  "license": "ISC",
+  "description": "A CLI tool to scaffold authentication backend routes into any Next.js project with support for MySQL, PostgreSQL, and libSQL (Turso) with ORM support.",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "execa": "^9.5.2",
+    "fs-extra": "^11.3.0",
+    "inquirer": "^12.5.2",
+    "ora": "^8.2.0"
+  }
+}
