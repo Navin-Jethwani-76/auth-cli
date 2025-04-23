@@ -15,7 +15,7 @@
 You can run the CLI directly via npx:
 
 ```bash
-npx auth-cli
+npx nextjs-auth-cli
 ```
 
 ### ✅ Benefits

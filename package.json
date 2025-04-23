@@ -1,5 +1,5 @@
 {
-  "name": "auth-cli",
+  "name": "nextjs-auth-cli",
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
