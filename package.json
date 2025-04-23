@@ -1,10 +1,18 @@
 {
   "name": "nextjs-auth-cli",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "type": "module",
   "main": "index.js",
   "bin": {
     "create-auth": "./index.js"
+  },
+  "homepage": "https://github.com/Navin-Jethwani-76/nextjs-auth-cli#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Navin-Jethwani-76/nextjs-auth-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Navin-Jethwani-76/nextjs-auth-cli/issues"
   },
   "keywords": [
     "next.js",
@@ -25,7 +33,7 @@
     "authentication"
   ],
   "author": "Navin Jethwani",
-  "license": "ISC",
+  "license": "GPL-3.0",
   "description": "A CLI tool to scaffold authentication backend routes into any Next.js project with support for MySQL, PostgreSQL, and libSQL (Turso) with ORM support.",
   "dependencies": {
     "chalk": "^5.4.1",
